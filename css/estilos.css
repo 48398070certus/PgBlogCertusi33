@@ -235,7 +235,7 @@ footer .contacto input[type="submit"]:hover{
 
 .footer{
     height:200px;
-    background: #000 ;
+    background: #000;
 }
 
 @media screen and (max-width:760px){
