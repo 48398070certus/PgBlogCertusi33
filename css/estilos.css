@@ -5,7 +5,7 @@
 }
 
 body{
-    background:  #fff ;
+    background: #fff;
     font-family:'lato';
     font-size: 16px;
 }
@@ -21,7 +21,7 @@ header{
     background-image: url('../img/portada.png');
     height:600px;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position:center;
     background-attachment: cover;
 }
 header .menu{
@@ -216,7 +216,7 @@ footer .contacto textarea{
     justify-content: flex-end;
 }
 footer .contacto input[type="submit"]{
-    display: block;
+    display:block;
     width: 100px;
     margin:10px 0;
     padding: 10px 15px;
